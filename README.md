@@ -12,6 +12,6 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 2. Preprocessing ()
 
-3. Analyse ()
+3. Machine Learning ()
 
 4. Outro ()
