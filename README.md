@@ -30,7 +30,7 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 #####  	Word2Vec *S*
 #####  	Bag-Of-Words/ Vec Classfier/ Fasttext *S*
 #####  	Sentimentanalyse /NrClex *A* 
-
+####    https://github.com/ErikaJacobs/Harry-Potter-Text-Mining/blob/master/Notebooks/HP_Text_Mining%20-%20Sentiment%20Analysis.ipynb
 ### 4. Outro (5 Min): *A*
 
 ##### Usecases für Text Mining: Chatbots, CRM, Hatespeech-Erkennung in Foren etc.
