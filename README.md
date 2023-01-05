@@ -12,6 +12,6 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 2. Preprocessing (20 Min)
 
-3. Machine Learning (20 Min)
+3. Machine Learning (25 Min)
 
-4. Outro (5 Min)
+4. Outro (10 Min)
