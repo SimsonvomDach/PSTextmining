@@ -17,9 +17,9 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 #####		Intro zu Preprocessing (1 Min) *S*
 #####  	Corpus/Stopwords *S*
-#####   Tokenization (Sent_Tokenize, Char_Tokenize) *A*
+#####   Tokenization (Sent_Tokenize, Char_Tokenize) *S*
 #####  	Stemming: lemmatization *A*
-#####  	Pos/chunking/Named Entity Recognition *S*
+#####  	Pos/chunking/Named Entity Recognition *A*
 
 ### 3. Analyse (30 Min):
 
