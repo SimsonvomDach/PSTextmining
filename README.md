@@ -31,7 +31,7 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 #####  	Bag-Of-Words/ Vec Classfier/ Fasttext *S*
 #####  	Sentimentanalyse /NrClex *A* 
 
-###4. Outro (5 Min): *A*
+### 4. Outro (5 Min): *A*
 
 ##### Usecases für Text Mining: Chatbots, CRM, Hatespeech-Erkennung in Foren etc.
 
