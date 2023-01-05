@@ -12,19 +12,22 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ### 2. Preprocessing (20 Min):
 
-#####  Stopwords/tokenization
-#####  Stemming/lemmatization
-#####  Pos/chukning/name entity
+#####		Intro zu Preprocessing
+#####  	Stopwords/tokenization
+#####  	Stemming/lemmatization
+#####  	Pos/chukning/name entity
 
-### 3. Analyse (25 Min):
+### 3. Analyse (30 Min):
 
-#####  N-Grams/ Wie oft kommt ein Wort vor/ -> Vec Classfier
-#####  Redeanteile für Charaktere/ für die Häuser wer spricht am meisten/ Zaubersprüche
-#####  Word2Vec
-#####  Netzwerkanalyse
-#####  Sentimentanalyse /NrClex
+#####		Intro zur Analyse 
+#####  	N-Grams/ Wie oft kommt ein Wort vor
+#####  	Redeanteile für Charaktere/ für die Häuser wer spricht am meisten/ Zaubersprüche **A**
+#####  	Netzwerkanalyse **A**
+#####  	Word2Vec **S**
+#####  	Vec Classfier **S**
+#####  	Sentimentanalyse /NrClex **A**
 
-###4. Outro (10 Min):
+###4. Outro (5 Min):
 
 
 
