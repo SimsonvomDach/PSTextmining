@@ -8,7 +8,7 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ## Vortrag:
 
-### 1. Intro (5 Min):
+### 1. Intro (5 Min): *S*
 
 #####   Data Mining (2 Min) *S*
 #####   Was ist Text Mining (3 Min) *S*
