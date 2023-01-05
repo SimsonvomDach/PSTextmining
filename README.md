@@ -10,16 +10,20 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ### 1. Intro (5 Min):
 
+#####   Data Mining (2 Min)
+#####   Was ist Text Mining (3 Min)
+
 ### 2. Preprocessing (20 Min):
 
-#####		Intro zu Preprocessing
-#####  	Stopwords/tokenization
+#####		Intro zu Preprocessing (1 Min)
+#####  	Corpus/Stopwords
+#####   Tokenization (Sent_Tokenize, Char_Tokenize)
 #####  	Stemming/lemmatization
-#####  	Pos/chukning/name entity
+#####  	Pos/chunking/Named Entity Recognition
 
 ### 3. Analyse (30 Min):
 
-#####		Intro zur Analyse 
+#####		Intro zur Analyse (1 Min)
 #####  	N-Grams/ Wie oft kommt ein Wort vor
 #####  	Redeanteile für Charaktere/ für die Häuser wer spricht am meisten/ Zaubersprüche **A**
 #####  	Netzwerkanalyse **A**
