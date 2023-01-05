@@ -10,8 +10,8 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ### 1. Intro (5 Min):
 
-#####   Data Mining (2 Min)
-#####   Was ist Text Mining (3 Min)
+#####   Data Mining (2 Min) *S*
+#####   Was ist Text Mining (3 Min) *S*
 
 ### 2. Preprocessing (20 Min):
 
@@ -23,8 +23,8 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ### 3. Analyse (30 Min):
 
-#####		Intro zur Analyse (1 Min) *S*
-#####  	N-Grams/ Wie oft kommt ein Wort vor *S*
+#####		Intro zur Analyse (1 Min) *A*
+#####  	N-Grams/ Wie oft kommt ein Wort vor *A*
 #####  	Redeanteile für Charaktere/ für die Häuser wer spricht am meisten/ Zaubersprüche **A**
 #####  	Netzwerkanalyse *A*
 #####  	Word2Vec *S*
