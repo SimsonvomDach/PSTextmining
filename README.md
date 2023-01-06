@@ -15,15 +15,15 @@ https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 
 ### 2. Preprocessing (20 Min):
 
-#####		Intro zu Preprocessing (1 Min) *S*
-#####  	Corpus/Stopwords *S*
-#####   Tokenization (Sent_Tokenize, Char_Tokenize) *S*
+#####		Intro zu Preprocessing (1 Min) *S*  : *A*
+#####  	Corpus/Stopwords *S*   : *A*
+#####   Tokenization (Sent_Tokenize, Char_Tokenize) *S*   : *A*
 #####  	Stemming: lemmatization *A*
-#####  	Pos/chunking/Named Entity Recognition *A*
+#####  	Pos/chunking/Named Entity Recognition *A*   : *S*
 
 ### 3. Analyse (30 Min):
 
-#####		Intro zur Analyse (1 Min) *A*
+#####		Intro zur Analyse (1 Min) *A*   : *S*
 #####  	N-Grams/ Wie oft kommt ein Wort vor *A*
 #####  	Redeanteile für Charaktere/ für die Häuser wer spricht am meisten/ Zaubersprüche **A**
 #####  	Netzwerkanalyse *A*
