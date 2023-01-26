@@ -1,5 +1,8 @@
 # Projektstudium
 
+Megastore:
+https://megastore.rz.uni-augsburg.de/get/T0xCHSfiMI/
+
 
 ## Venvtest
 
