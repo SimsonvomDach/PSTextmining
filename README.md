@@ -1,6 +1,6 @@
 # Projektstudium
 
-Megastore:
+Megastore 19:35 Uhr:
 https://megastore.rz.uni-augsburg.de/get/T0xCHSfiMI/
 
 
