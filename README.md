@@ -4,7 +4,7 @@
 ## Venvtest
 
 https://we.tl/t-NfyV6Yfa49
-
+python -m ipykernel install --user --name=myenv
 
 ## Word2Vec:
 Distributed Representations of Sentences and Documents by Quoc Le and Tomas Mikolov
